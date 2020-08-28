@@ -1,0 +1,17 @@
+.course{
+    display: flex;
+    background-color: lightgreen;
+    margin: 25px 0;
+    padding: 15px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.course img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+.course-detail{
+    padding-left: 20px;
+}

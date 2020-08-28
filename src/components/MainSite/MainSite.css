@@ -1,0 +1,15 @@
+.mainSite{
+    display: flex;
+    padding: 0px 20px;
+}
+
+.course-container{
+    width: 70%;
+    
+}
+.cart-container{
+    width: 30%;
+    background-color: lightgreen;
+    margin: 25px;
+    border-radius: 20px;
+}
